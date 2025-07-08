@@ -4,14 +4,14 @@
     "vencimento": "2025-07-09",
     "valor": 52,
     "parcelas": 1,
-    "pago": false
+    "pago": true
   },
   {
     "categoria": "Internet",
     "vencimento": "2025-07-09",
     "valor": 0,
     "parcelas": 1,
-    "pago": false
+    "pago": true
   },
   {
     "categoria": "Energia",
@@ -50,6 +50,13 @@
   },
   {
     "categoria": "asd",
+    "vencimento": "",
+    "valor": 0,
+    "parcelas": 1,
+    "pago": false
+  },
+  {
+    "categoria": "asdsadsad",
     "vencimento": "",
     "valor": 0,
     "parcelas": 1,
