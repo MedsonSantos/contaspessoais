@@ -1,9 +1,9 @@
 [
   {
     "categoria": "Água",
-    "vencimento": "",
-    "valor": 0,
-    "pago": false
+    "vencimento": "2025-07-20",
+    "valor": 92,
+    "pago": true
   },
   {
     "categoria": "Internet",
