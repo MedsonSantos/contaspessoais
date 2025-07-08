@@ -1,44 +1,51 @@
 [
   {
     "categoria": "Água",
-    "vencimento": "2025-07-20",
+    "vencimento": "",
     "valor": 92,
-    "pago": true
+    "parcelas": 1,
+    "pago": false
   },
   {
     "categoria": "Internet",
     "vencimento": "",
     "valor": 0,
+    "parcelas": 1,
     "pago": false
   },
   {
     "categoria": "Energia",
     "vencimento": "",
     "valor": 0,
+    "parcelas": 1,
     "pago": false
   },
   {
     "categoria": "Taxa de condomínio",
     "vencimento": "",
     "valor": 0,
+    "parcelas": 1,
     "pago": false
   },
   {
     "categoria": "Entrada condomínio",
     "vencimento": "",
     "valor": 0,
+    "parcelas": 1,
     "pago": false
   },
   {
     "categoria": "Unimed Helô",
     "vencimento": "",
     "valor": 0,
+    "parcelas": 1,
     "pago": false
   },
   {
     "categoria": "Gás",
     "vencimento": "",
     "valor": 0,
+    "parcelas": 1,
     "pago": false
   }
 ]
