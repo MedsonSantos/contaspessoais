@@ -8,7 +8,7 @@
   },
   {
     "categoria": "Internet",
-    "vencimento": "",
+    "vencimento": "2025-07-09",
     "valor": 0,
     "parcelas": 1,
     "pago": false
@@ -46,6 +46,13 @@
     "vencimento": "",
     "valor": 0,
     "parcelas": 25,
+    "pago": false
+  },
+  {
+    "categoria": "asd",
+    "vencimento": "",
+    "valor": 0,
+    "parcelas": 1,
     "pago": false
   }
 ]
