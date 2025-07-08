@@ -2,7 +2,7 @@
   {
     "categoria": "Água",
     "vencimento": "2025-07-10",
-    "valor": 0,
+    "valor": 52,
     "parcelas": 1,
     "pago": false
   },
@@ -45,7 +45,7 @@
     "categoria": "Gás",
     "vencimento": "",
     "valor": 0,
-    "parcelas": 1,
+    "parcelas": 25,
     "pago": false
   }
 ]
