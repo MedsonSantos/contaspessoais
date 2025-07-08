@@ -9,7 +9,7 @@
   {
     "categoria": "Internet",
     "vencimento": "",
-    "valor": 0,
+    "valor": 1000,
     "parcelas": 1,
     "pago": false
   },
