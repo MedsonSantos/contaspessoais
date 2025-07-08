@@ -1,17 +1,17 @@
 [
   {
     "categoria": "Água",
-    "vencimento": "2025-07-09",
-    "valor": 52,
+    "vencimento": "",
+    "valor": 0,
     "parcelas": 1,
-    "pago": true
+    "pago": false
   },
   {
     "categoria": "Internet",
-    "vencimento": "2025-07-09",
+    "vencimento": "",
     "valor": 0,
     "parcelas": 1,
-    "pago": true
+    "pago": false
   },
   {
     "categoria": "Energia",
@@ -43,20 +43,6 @@
   },
   {
     "categoria": "Gás",
-    "vencimento": "",
-    "valor": 0,
-    "parcelas": 25,
-    "pago": false
-  },
-  {
-    "categoria": "asd",
-    "vencimento": "",
-    "valor": 0,
-    "parcelas": 1,
-    "pago": false
-  },
-  {
-    "categoria": "asdsadsad",
     "vencimento": "",
     "valor": 0,
     "parcelas": 1,
